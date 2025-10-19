@@ -15,8 +15,8 @@
 	--font-family: "Poppins", sans-serif;
   	--font-lg: bold 32px/125% var(--font-family);
   	--font: 16px/150% var(--font-family);
-  	--font-md: 14px/175% var(--font-family);
-  	--font-sm: 12px/175% var(--font-family);
+  	--font-md: 14px/170% var(--font-family);
+  	--font-sm: 12px/170% var(--font-family);
 }
 
 a {
@@ -24,7 +24,7 @@ a {
 	color: inherit;
 }
 
-a::hover {
+a:hover {
 	color: var(--brand-color);
 	text-decoration: underline;
 }
