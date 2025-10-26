@@ -14,21 +14,22 @@
 	gap: 16px;
 }
 
-.text-2xt {
-	font: var(--h1);
+.text-2xl {
+    font: var(--h1);
 }
-
 
 .text-xl {
-	font: var(--h2);
+    font: var(--h2);
 }
-
 
 .text-lg {
-	font: var(--h3);
+    font: var(--h3);
 }
 
-
 .text-sm {
-	font: var(--h1);
+    font: var(--text-sm);
+}
+
+.gap-32 {
+	gap: 32px;
 }
